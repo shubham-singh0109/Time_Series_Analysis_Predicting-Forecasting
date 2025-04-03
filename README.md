@@ -1,5 +1,8 @@
 # Boston's Economic Diary - Time Series Analysis & Forecasting
 
+## Results
+![Demo Image](snippet/prediction.png)
+
 ## Overview
 Boston’s Economic Diary is a data-driven analysis project that examines economic trends in Boston, focusing on Logan Airport traffic and hotel occupancy rates. Using time series analysis and forecasting models, this project uncovers key insights into economic activity, helping stakeholders make data-informed decisions.
 
@@ -35,9 +38,6 @@ Boston’s Economic Diary is a data-driven analysis project that examines econom
 4. Forecasting & Insights
 - Used ARIMA to predict future economic activity.
 - Interpreted results to provide actionable insights for business and policymakers.
-
-## Results
-![Demo Image](snippet/prediction.png)
 
 ## Future Improvements
 - Extend analysis to other economic indicators (e.g., employment rates, tourism trends).
