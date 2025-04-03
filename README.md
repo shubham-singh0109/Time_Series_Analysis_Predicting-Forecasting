@@ -44,5 +44,13 @@ Boston’s Economic Diary is a data-driven analysis project that examines econom
 - Experiment with LSTM and Prophet models for improved forecasting.
 - Develop an interactive dashboard for real-time insights.
 
+## **Clone the Repository**:
+   ```bash
+   git clone https://github.com/shubham-singh0109/Time_Series_Analysis_Predicting-Forecasting.git
+   ```
+   ```bash
+   cd Time_Series_Analysis_Predicting-Forecasting
+   ```
+
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request.
