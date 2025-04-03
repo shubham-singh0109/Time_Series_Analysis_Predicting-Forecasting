@@ -1,6 +1,6 @@
 # Boston's Economic Diary - Time Series Analysis & Forecasting
 
-## Results
+## Result
 ![Demo Image](snippet/prediction.png)
 
 ## Overview
